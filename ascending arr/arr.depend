@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1485663391 source:d:\c projects\arr\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1485663697 source:d:\c projects\ascending arr\main.c
+	<stdio.h>
+	<stdlib.h>
+
